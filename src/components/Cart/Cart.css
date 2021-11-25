@@ -1,0 +1,26 @@
+.cart-container{
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 30px;
+    text-align: left;
+}
+.orderTotal{
+    font-size: large;
+    color: rgb(15, 50, 204);
+}
+
+.cart-selected-container{
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 4px;
+}
+.cart-selected-container img{
+
+padding: 5px;
+width: 70%;
+}
+.cart-selected-header{
+    padding: 5px;
+    width: 50%;
+}
